@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Assuming the height of your sticky navbar is 60px */
+.scroll-margin {
+  scroll-margin-top: 60px; /* Adjust based on your navbar's height */
+}
